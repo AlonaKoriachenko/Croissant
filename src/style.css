@@ -7,11 +7,11 @@ body {
 }
 
 h1,
-h2 {
+p {
   text-align: center;
 }
 
-img {
+.croissant-photo {
   display: block;
   max-width: 100%;
   border-radius: 10px;
